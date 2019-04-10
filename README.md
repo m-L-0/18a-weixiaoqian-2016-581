@@ -1,9 +1,16 @@
 # 18a-weixiaoqian-2016-581
 未晓倩TensorFlow作业
+
+
 2-6
 
 
+
+
+
+
 DeepLearnin作业
+
 
 
 DL1:第一章选择判断题，编写程序： "#在Python环境下使用Numpy编写Sgn、Logistic激活函数"
